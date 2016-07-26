@@ -1,3 +1,8 @@
 # BivariateEMProbit
-This repository has the function and examples to run the Bivariate and Univariate Probit using the EM-Algorithm applied in Bioinformatics
-The emoneProbitf.py es the function to univariate Probit calculated with EM algoritm with multivariate X predictor.
+This repository has the function and examples to run the Bivariate and Univariate Probit using the EM-Algorithm applied in Bioinformatics.
+
+The emoneProbitf.py is the function to univariate Probit calculated with EM algorithm with multivariate X predictor.
+
+The embiprobit.py is the function to bivariate Probir calculated with EM algorithm with multivariate X predictor.
+
+The sample_green.py is one ejecution using the file ejemplo_greenvf.csv, the result is show in screen.
