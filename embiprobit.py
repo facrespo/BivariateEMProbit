@@ -65,7 +65,7 @@ import scipy.stats;
 from scipy import stats, special, optimize;
 from scipy.stats import norm, chisqprob, mvn, distributions;
 import scipy.linalg as scl;
-import sympy as sy;
+#import sympy as sy;
 import math;
 #import statsmodels;
 #import numba;
