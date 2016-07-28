@@ -38,22 +38,15 @@ New Jersey.
 
 '''
 
-
-
-
-
-
-
-
 import numpy as np;
 import numpy.linalg as la;
 import scipy.stats;
 from scipy import stats, special, optimize;
 from scipy.stats import norm, chisqprob;
 import scipy.linalg as scl;
-import sympy as sy;
+#import sympy as sy;
 import math;
-import statsmodels.api as sm;
+#import statsmodels.api as sm;
 
 FLOAT_EPS = np.finfo(float).eps;
 
