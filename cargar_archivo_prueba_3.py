@@ -11,7 +11,7 @@ import six;
 #import builtins;
 
 from scipy import stats;
-import matplotlib as plt;
+#import matplotlib as plt;
 import statsmodels.api as sm;
 import statsmodels.formula.api as smf;
 from statsmodels.formula.api import logit, probit, poisson, ols;
