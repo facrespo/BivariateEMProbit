@@ -1,7 +1,7 @@
 # BivariateEMProbit
 This repository has the function and examples to run the Bivariate and Univariate Probit using the EM-Algorithm applied in Bioinformatics.
 
-We use the libraries: Numpy, Scipy, Sympy, Math, statsmodels.api, and Python 3.5 with Anaconda.
+We use the libraries: Numpy, Scipy, Sympy, Math, statsmodels.api, and Python 3.5 with Anaconda. To down statsmodels, you should visit: http://statsmodels.sourceforge.net/stable/ and use the suggestions. 
 
 The emoneProbitf.py is the function to univariate Probit calculated with EM algorithm with multivariate X predictor.
 
