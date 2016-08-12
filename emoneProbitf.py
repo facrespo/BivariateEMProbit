@@ -11,8 +11,8 @@ Results:
 
 iteracion is the number of iteration that Em Algorithm use to look for the optimal.
 Bt is the ponderators of X.
-vt is the predicción to Y, if vt[i]>0 then Y[i] estimate is 1. 
-error_predicciont the cuadratic difference of error of Y respect the Y estimate, 
+vt is the predicción to Y, if vt[i]>0 then Y[i] estimate is 1.
+error_predicciont the cuadratic difference of error of Y respect the Y estimate,
 Rsquare the correlation of Y estimate with Y.
 lognull is the loglikehood only the constant or last variable.
 logmreducp is the loglikehood without the variable p_special_test. 
